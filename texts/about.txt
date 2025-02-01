@@ -1,0 +1,46 @@
+<!-- ====== About Section 1 Start ====== -->
+
+Discover the Journey of Shoe Bazaar
+
+At <strong>Shoe Bazaar</strong>, our journey began with a vision to combine modern trends with timeless comfort.
+Our mission is to provide premium footwear that blends style, durability, and sustainability, ensuring that every step you take is confident and stylish.
+
+<i class="ri-checkbox-circle-fill"><span><strong>Redefining Style:</strong> Established to deliver footwear that complements every occasion.</span></i>
+<i class="ri-checkbox-circle-fill"><span><strong>Expert Craftsmanship:</strong> Premium collections designed and crafted by skilled artisans.</span></i>
+<i class="ri-checkbox-circle-fill"><span><strong>Sustainability at Heart:</strong> Commitment to eco-friendly practices in all our designs.</span></i>
+
+Model showcasing trendy footwear from Shoe Bazaar
+
+<!-- ====== About Section 1 End ====== -->
+
+
+<!-- ====== About Section 2 Start ====== -->
+
+Why Choose Shoe Bazaar: Our Vision and Commitment
+
+At <strong>Shoe Bazaar</strong>, we go beyond selling footwear—we deliver an experience tailored to your style and comfort needs. Our vision is to redefine footwear shopping by offering premium quality, sustainable options, and exceptional customer satisfaction.
+
+<i class="ri-checkbox-circle-fill"><span><strong>Customer-Centric Approach:</strong> Your satisfaction is our priority, guiding everything we do.</span></i>
+<i class="ri-checkbox-circle-fill"><span><strong>Sustainability:</strong> We’re committed to offering eco-friendly and ethically crafted footwear.</span></i>
+<i class="ri-checkbox-circle-fill"><span><strong>Quality Assurance:</strong> Discover footwear crafted with precision, durability, and style in mind.</span></i>
+
+<!-- ====== About Section 2 End ====== -->
+
+
+<!-- ====== Our Team Section Start ====== -->
+
+Our Team
+
+Karan Patel
+CEO & Founder
+<i class="ri-linkedin-box-fill"></i>
+
+Riya Kapoor
+CMO
+<i class="ri-linkedin-box-fill"></i>
+
+Harsh Gupta
+CTO
+<i class="ri-linkedin-box-fill"></i>
+
+<!-- ====== Our Team Section End ====== -->

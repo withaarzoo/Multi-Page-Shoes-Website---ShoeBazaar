@@ -1,0 +1,248 @@
+<!-- ====== Header Section Start ====== -->
+
+Home
+Category
+Popular
+About
+Products
+Contact Us
+
+Shoe Bazaar - Home
+Shoe <span>Bazaar</span>
+
+<i class="ri-shopping-cart-line"></i>
+<i class="ri-user-line"></i>
+
+Sports Shoes
+₹ 2499
+x1
+
+Nike Sneakers
+₹ 4899
+x1
+
+2 Items
+Total: ₹ 898
+
+Proceed to Pay
+
+Login To Continue
+Forget Password?
+Create account
+
+<!-- ====== Header Section End ====== -->
+
+
+<!-- ====== Home Section Start ====== -->
+
+Step Into Style with <br /><span>Shoe Bazaar</span>
+
+Shoe Bazaar offers stylish and comfortable footwear options that match your personality and lifestyle perfectly.
+
+Find Your Style
+<i class="ri-arrow-right-line"></i>
+
+Shoes Bazar Clothing Collection Featured by a man who showcaching his Shoes
+
+<!-- ====== Home Section End ====== -->
+
+
+<!-- ====== Category Section Start ====== -->
+
+Our Categories
+
+Sneakers
+Sports Shoes
+Crocs
+Flip Flop
+
+<!-- ====== Category Section End ====== -->
+
+
+<!-- ====== Popular Product Section Start ====== -->
+
+Popular Products
+
+See All
+
+ri-heart-3-line wishlist
+Sports Shoes
+₹ 2499
+<i class="ri-shopping-cart-line"></i>
+
+ri-heart-3-line wishlist
+Nike Sneakers
+₹ 4899
+<i class="ri-shopping-cart-line"></i>
+
+ri-heart-3-line wishlist
+Reiss Sneakers
+₹ 8999
+<i class="ri-shopping-cart-line"></i>
+
+ri-heart-3-line wishlist
+Crocs
+₹ 2499
+<i class="ri-shopping-cart-line"></i>
+
+<!-- ====== popular Section End ====== -->
+
+
+<!-- ====== About Section Start ====== -->
+
+About Shoe Bazaar
+
+Welcome to <strong>Shoe Bazaar</strong>, your ultimate destination for <strong>trendy, comfortable, and affordable footwear</strong>. We specialize in providing a wide range of shoes that combine style,durability, and unmatched comfort to match every step of your journey.
+
+<i class="ri-checkbox-circle-fill">
+<span><strong>Free Home Delivery:</strong> Enjoy the convenience of <strong>doorstep delivery</strong> without any extra charges, making your shopping experience seamless and hassle-free.</span>
+</i>
+
+<i class="ri-checkbox-circle-fill">
+<span><strong>Premium Quality Footwear:</strong> Explore a curated collection of <strong>durable, stylish, and comfortable shoes</strong> designed to provide exceptional value and enhance your style.</span>
+</i>
+
+<i class="ri-checkbox-circle-fill">
+<span><strong>Easy Returns:</strong> Shop with confidence with our <strong>hassle-free return policy</strong>, ensuring your ultimate satisfaction with every purchase.</span>
+</i>
+
+Learn More About Us
+
+<!-- ====== About Section End ====== -->
+
+
+<!-- ====== Products Section Start ====== -->
+
+<i class="ri-arrow-right-line"></i>
+
+Product Shop
+See All
+
+<i class="ri-heart-3-line wishlist"></i>
+Sports Sneakers
+₹ 1879
+Add Stylish Sports Sneakers to Cart
+<i class="ri-shopping-cart-line"></i>
+
+<i class="ri-heart-3-line wishlist"></i>
+Gebi Sneakers
+₹ 2899
+Add Gebi Sneakers to Cart
+<i class="ri-shopping-cart-line"></i>
+
+<i class="ri-heart-3-line wishlist"></i>
+Wildi Sneakers
+₹ 3499
+Add Wildi Sneakers to cart
+<i class="ri-shopping-cart-line"></i>
+
+<i class="ri-heart-3-line wishlist"></i>
+Sports Shoes
+₹ 4899
+Add Sports Shoes to cart
+<i class="ri-shopping-cart-line"></i>
+
+<i class="ri-heart-3-line wishlist"></i>
+Adidas Shoes
+₹ 5489
+Add Adidas Shoes to cart
+<i class="ri-shopping-cart-line"></i>
+
+<i class="ri-heart-3-line wishlist"></i>
+Nike Shoes
+₹ 11489
+Add Nike Shoes to cart
+<i class="ri-shopping-cart-line"></i>
+
+<i class="ri-heart-3-line wishlist"></i>
+Crocs
+₹ 2499
+Add Crocs to cart
+<i class="ri-shopping-cart-line"></i>
+
+<i class="ri-heart-3-line wishlist"></i>
+Flip Flop
+₹ 1999
+Add Flip Flop to cart
+<i class="ri-shopping-cart-line"></i>
+
+<i class="ri-heart-3-line wishlist"></i>
+Crocs
+₹ 1499
+Add Crocs to cart
+<i class="ri-shopping-cart-line"></i>
+
+<i class="ri-heart-3-line wishlist"></i>
+Nike Shoes
+₹ 2499
+Add Nike Shoes to cart
+<i class="ri-shopping-cart-line"></i>
+
+<i class="ri-heart-3-line wishlist"></i>
+Nike Sneakers
+₹ 4899
+Add Nike Sneakers to cart
+<i class="ri-shopping-cart-line"></i>
+
+<i class="ri-heart-3-line wishlist"></i>
+Nike Shoes
+₹ 5999
+Add Nike Shoes to cart
+<i class="ri-shopping-cart-line"></i>
+
+<!-- ====== Products Section End ====== -->
+
+
+<!-- ====== Newsletter Section Start ====== -->
+
+Stay Ahead of the Trends
+
+Sign up for exclusive style tips, new arrivals, and special offers!
+
+<!-- ====== Newsletter Section End ====== -->
+
+
+<!-- ====== Footer Section Start ====== -->
+
+Our Company
+
+About Us
+Help Center
+Our Blog
+Privacy Policy
+
+Popular Categories
+
+Sneakers
+Sports Shoes
+Crocs
+Flip Flop
+
+More Information
+
+Shipping Details
+Delivery & Returns
+Contact Us
+Sitemap
+
+Connect With Us
+
+<i class="ri-facebook-circle-fill"></i>
+<i class="ri-twitter-x-line"></i>
+<i class="ri-instagram-fill"></i>
+
+<!-- ====== Footer Section End ====== -->
+
+
+<!-- ====== Copyright Section Start ====== -->
+
+&#169; Code with Aarzoo All Right Reserved
+
+<!-- ====== Copyright Section End ====== -->
+
+
+<!-- ====== Scroll Top Section Start ====== -->
+
+<i class="ri-arrow-up-line"></i>
+
+<!-- ====== Scroll Top Section End ====== -->

@@ -1,0 +1,9 @@
+<!-- ====== Contact Form Section Start ====== -->
+
+We'd Love to Hear from You
+
+Send Message
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14586.852361503441!2d88.23819801675248!3d23.935211719225585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.!3m3!1m2!1s0x48fef7981df43c37%3A0xfb43fc883728e8e8!2sDgiSight!5e0!3m2!1sen!2sin!4v1727875007692!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" aria-label="DGI Sight Location Map" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<!-- ====== Contact Form Section End ====== -->
