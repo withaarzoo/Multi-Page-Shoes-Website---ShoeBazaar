@@ -14,7 +14,7 @@
 Welcome to the **Shoe Bazaar** project! This repository contains the source code for a fully responsive, SEO-optimized, multi-page **shoe e-commerce website** built using **HTML, CSS, and JavaScript**. The website includes essential pages like **Homepage, About Us, Products, and Contact Us**, designed to offer an engaging and seamless shopping experience.
 
   <div>
-    <a href="https://youtu.be/DjJTXXKETiE?si=fMJJDU_vfIv0QwdL"><strong>➥ Watch Tutorial</strong></a>
+    <a href="https://youtu.be/LA8eVJYYdzQ"><strong>➥ Watch Tutorial</strong></a>
     <br>
     <br>
     <a href="https://t.me/withaarzoo"><strong>➥ Download Full Source Code</strong></a>
