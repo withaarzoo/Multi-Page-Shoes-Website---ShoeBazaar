@@ -17,7 +17,7 @@ Welcome to the **Shoe Bazaar** project! This repository contains the source code
     <a href="https://youtu.be/DjJTXXKETiE?si=fMJJDU_vfIv0QwdL"><strong>➥ Watch Tutorial</strong></a>
     <br>
     <br>
-    <a href="tel:+917586073575"><strong>➥ Download Full Source Code : +91 7586073575 (WhatsApp)</strong></a>
+    <a href="https://t.me/withaarzoo"><strong>➥ Download Full Source Code</strong></a>
   </div>
 
 </div>
@@ -61,9 +61,7 @@ This multi-page e-commerce website includes the following key pages:
 
 ## 📥 Source Code
 
-For full access to the source code, connect via **Telegram**:
-
-📩 **+91 7586073575 (Telegram)**
+For full access to the source code, [click here](https://t.me/withaarzoo)
 
 ---
 
