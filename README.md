@@ -4,7 +4,7 @@
 ![GitHub stars](https://shields.io/github/stars/withaarzoo/Multi-Page-Shoes-Website---ShoeBazaar?style=social)
 ![GitHub forks](https://shields.io/github/forks/withaarzoo/Multi-Page-Shoes-Website---ShoeBazaar?style=social)
 [![Twitter Follow](https://shields.io/twitter/follow/withaarzoo?style=social)](https://twitter.com/intent/follow?screen_name=withaarzoo)
-[![YouTube Video Views](https://shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/KXymZtuRRyk)
+[![YouTube Video Views](https://shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/LA8eVJYYdzQ)
 
   <br />
   <br />
@@ -69,7 +69,7 @@ For full access to the source code, [click here](https://t.me/withaarzoo)
 
 Need help setting up your **Shoe Bazaar** website? Watch our detailed tutorial:
 
-📌 [SEO Optimized Multipage Shoe E-Commerce Website Tutorial](https://youtu.be/DjJTXXKETiE?si=fMJJDU_vfIv0QwdL)
+📌 [SEO Optimized Multipage Shoe E-Commerce Website Tutorial](https://youtu.be/LA8eVJYYdzQ)
 
 ---
 
